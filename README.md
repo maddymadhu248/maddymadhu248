@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maddymadhu248&show_icons=true&theme=tokyonight" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak Status
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddymadhu248&theme=tokyonight" />
